@@ -52,6 +52,7 @@ Software & Tools: Low-code, LaTeX, Markdown, Jupyter Notebook, ChatGPT Prompt, G
 
 **Foreign Language**  
 English (Fluent, CET-6: 565/710)  
+Standard Chinese (Natural, Two levels of second-class)
 
 ## Honor
 - Alibaba Cloud Annual Geek of Greencode (Winter 2022)  
