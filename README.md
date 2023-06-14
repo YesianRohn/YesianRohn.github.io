@@ -2,10 +2,10 @@
 (Xingsong Ye)
 
 220 Handan Rd, Shanghai, P.R.C. (200433)  
-Email: xsye20@fudan.edu.cn
+Email: xsye20@fudan.edu.cn 
 Page: https://YesianRohn.github.io  
-Tel: +86-18580569251 
-GitHub: https://github.com/YesianRohn
+Tel: +86-18580569251  
+GitHub: https://github.com/YesianRohn 
 
 ## Education
 
