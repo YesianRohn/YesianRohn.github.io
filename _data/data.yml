@@ -7,50 +7,50 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Yesian Rohn (Xingsong Ye)
+    tagline: Junior CS student at Fudan University
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    address: 220 Handan Rd, Shanghai, P.R.C. (200433)  
+    email: xsye20@fudan.edu.cn
+    phone: +86-18580569251
+    timezone: CN Asia/Shanghai
+    # citizenship:
+    # website: 
+    linkedin: [xingsong ye](xingsong-ye-115b41216)
+    # xing: alandoe
+    github: YesianRohn
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    # gitlab: YesianRohn
+    # bitbucket:
+    # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://github.com/YesianRohn/YesianRohn.github.io/resume.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Standard Chinese
           level: Native
+          certificate: Two levels of second-class
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: Fluent
+          certificate: CET-6 565/710
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Video making
           link:
 
-        - item: Snowboarding
+        - item: Stand-up comedy
           link:
 
-        - item: Cooking
+        - item: Ping-pong sending
           link:
 
 career-profile:
@@ -65,46 +65,43 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: BSc in Computer Science
+        university: Fudan University
+        time: September 2020 - June 2024
+        Cumulative GPA: 3.62/4.0
+        Ranking: 21/102
+        Coursework and Grade: |
+          - Data Structure (A)  
+          - Introduction to Electronic Systems (A-)  
+          - Introduction to Robotics (A)  
+          - Discrete math (A)  
+          - Computation Theory (A-)  
+          - Computer Visualization (A)  
+          - Computer Architecture (A)  
+          - Operating Systems (A)  
+          - Artificial Intelligence (A)
+          - Algorithm Design and Analysis (A-)
+          - Computer Graphics (A)
+        # details: |
+        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #   pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - name: Robot for Measuring Photosynthetic Efficiency
+        role: Research Intern
+        time: February 2023 - May 2023
+        company: Shanghai Institute of Plant Physiology and Ecology
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          - Utilized the deep learning model Mask-RCNN for leaf instance segmentation and optimized the task by applying data augmentation techniques and dropout strategy to prevent overfitting.  
+          - Devised algorithm to properly account for the distance and normal vector of the segmented leaf captured by a depth camera.  
+          - Called the API interfaces of the AGILE AGV and the JAKA Manipulator to plan their movements and move the collection device to the optimal position upon detecting the blades.  
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
