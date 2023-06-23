@@ -16,10 +16,19 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for honor in honors.honor %}
+  {% for honor in honors.info %}
   <div class="item">
-      <li>{{ honor.title }}</li>
-      <div class="time">{{ honor.time }}</div>
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ honor.title }}</h3>
+        <div class="time">{{ honor.time }}</div>
+      </div><!--//upper-row-->
+
+    </div><!--//meta-->
+
+
   </div><!--//item-->
   {% endfor %}
 

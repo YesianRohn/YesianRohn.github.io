@@ -233,7 +233,7 @@ skills:
 
 honors:
     title: Honors &amp; Awards
-    honor:
+    info:
       - title: Alibaba Cloud Annual Geek of Greencode 
         time: Winter 2022
       - title: Third-class Scholarship of Fudan University 
