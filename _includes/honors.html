@@ -5,7 +5,7 @@
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-award fa-stack-1x fa-inverse"></i>
     </span>
     {{ honors.title }}
   </h2>
@@ -19,6 +19,7 @@
   {% for honor in honors.honor %}
   <div class="item">
       <li>{{ honor.title }}</li>
+      <div class="time">{{ honor.time }}</div>
   </div><!--//item-->
   {% endfor %}
 

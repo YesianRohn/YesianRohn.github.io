@@ -234,8 +234,10 @@ skills:
 honors:
     title: Honors &amp; Awards
     honor:
-      - title: Alibaba Cloud Annual Geek of Greencode (Winter 2022)  
-      - title: Third-class Scholarship of Fudan University (Autumn 2022)
+      - title: Alibaba Cloud Annual Geek of Greencode 
+        time: Winter 2022
+      - title: Third-class Scholarship of Fudan University 
+        time: Autumn 2022
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by Yesian Rohn
+    Designed by Yesian Rohn
