@@ -230,12 +230,12 @@ skills:
 
       - name: Verilog
         level: 50%
-        
+
 honors:
     title: Honors &amp; Awards
-    honors:
+    honor:
       - title: Alibaba Cloud Annual Geek of Greencode (Winter 2022)  
       - title: Third-class Scholarship of Fudan University (Autumn 2022)
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by Yesian Rohn
