@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    address: 220 Handan Rd, Shanghai, P.R.C. (200433)  
+    # address: 220 Handan Rd, Shanghai, P.R.C. (200433)  
     email: xsye20@fudan.edu.cn
     phone: +86-18580569251
     timezone: CN Asia/Shanghai
@@ -34,12 +34,10 @@ sidebar:
       title: Languages
       info:
         - idiom: Standard Chinese
-          level: Native
-          certificate: Two levels of second-class
+          level: Native (Two levels of second-class)
 
         - idiom: English
-          level: Fluent
-          certificate: CET-6 565/710
+          level: Fluent (CET-6 565/710)
 
     interests:
       title: Interests
@@ -68,34 +66,14 @@ education:
       - degree: BSc in Computer Science
         university: Fudan University
         time: September 2020 - June 2024
-        Cumulative GPA: 3.62/4.0
-        Ranking: 21/102
-        Coursework and Grade: |
-          - Data Structure (A)  
-          - Introduction to Electronic Systems (A-)  
-          - Introduction to Robotics (A)  
-          - Discrete math (A)  
-          - Computation Theory (A-)  
-          - Computer Visualization (A)  
-          - Computer Architecture (A)  
-          - Operating Systems (A)  
-          - Artificial Intelligence (A)
-          - Algorithm Design and Analysis (A-)
-          - Computer Graphics (A)
-        # details: |
-        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #   pretium quis, sem.
-        #     - Bullet point
-        #     - Bullet point
+        details: |
+          - Cumulative GPA: 3.62/4.00
+          - Ranking: 21/102
 
 experiences:
     title: Experiences
     info:
-      - name: Robot for Measuring Photosynthetic Efficiency
-        role: Research Intern
+      - role: Research Intern
         time: February 2023 - May 2023
         company: Shanghai Institute of Plant Physiology and Ecology
         details: |
