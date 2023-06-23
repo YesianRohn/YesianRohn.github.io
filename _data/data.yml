@@ -7,50 +7,47 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Yesian Rohn (Xingsong Ye)
+    tagline: Junior CS student at Fudan University
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: xsye20@fudan.edu.cn
+    phone: +86-18580569251
+    timezone: CN Asia/Shanghai
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: 
+    linkedin: 
+    xing: 
+    github: YesianRohn
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://github.com/YesianRohn/YesianRohn.github.io/resume.pdf
 
     languages:
       title: Languages
       info:
+        - idiom: Standard Chinese
+          level: Native (Two levels of second-class)
+
         - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+          level: Fluent (CET-6 565/710)
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Video making
           link:
 
-        - item: Snowboarding
+        - item: Stand-up comedy
           link:
 
-        - item: Cooking
+        - item: Ping-pong sending
           link:
 
 career-profile:
@@ -65,9 +62,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BSc in Computer Science
+        university: Fudan University
+        time: September 2020 - June 2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
