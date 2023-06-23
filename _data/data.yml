@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yesian Rohn (Xingsong Ye)
-    tagline: Junior CS student at Fudan University
+    tagline: Junior majoring in CS
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -73,35 +73,18 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
+      - role: Research Intern
         time: 2015 - Present
         company: Startup Hubs, San Francisco
+        company: Shanghai Institute of Plant Physiology and Ecology
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          - Utilized the deep learning model Mask-RCNN for leaf instance segmentation and optimized the task by applying data augmentation techniques and dropout strategy to prevent overfitting.  
+          - Devised algorithm to properly account for the distance and normal vector of the segmented leaf captured by a depth camera.  
+          - Called the API interfaces of the AGILE AGV and the JAKA Manipulator to plan their movements and move the collection device to the optimal position upon detecting the blades.  
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
