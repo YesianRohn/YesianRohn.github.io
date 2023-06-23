@@ -78,166 +78,164 @@ experiences:
     title: Experiences
     info:
       - role: Research Intern
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        time: February 2023 - May 2023
         company: Shanghai Institute of Plant Physiology and Ecology
         details: |
           - Utilized the deep learning model Mask-RCNN for leaf instance segmentation and optimized the task by applying data augmentation techniques and dropout strategy to prevent overfitting.  
           - Devised algorithm to properly account for the distance and normal vector of the segmented leaf captured by a depth camera.  
           - Called the API interfaces of the AGILE AGV and the JAKA Manipulator to plan their movements and move the collection device to the optimal position upon detecting the blades.  
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Group leader
+        time: October 2022 - November 2022
+        company: Commonweal Project of Greencode in Alibaba Cloud
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          - Created an HTML-format map of non-motorized bicycle lanes in Wuhan city using the Folium package.  
+          - Built two web pages with HTML and CSS based on the map, and deployed them on Github.  
+          - Added a domain name mapping for www.mjdlz.cn to these web pages.  
+      - role: Software Intern
+        time: July 2022 - September 2022
+        company: Chongqing Qingyan Technological Intelligent Technology Research Institute
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Developed ERP systems for industrial enterprises through a low-code platform.  
+          - Assisted in writing project development documents and software monographs, including conducting research, gathering information, organizing data, and proofreading.  
+          - Wrote C# code to enable interaction between a physical robot and the RoboDK app for exploring the Digital Twin technology.  
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+# certifications:
+#       title: Certifications
+#       list:
+#         - name: CV Builder
+#           start: 2020
+#           end: 2021
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.google.com
+#           credentialname: Google
+#           details: |
+#             Details about cert. Lorem ipsum dolor sit amet, consectetur 
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh. 
+#             Aenean fermentum, felis vulputate suscipit accumsan, 
+#             sem enim bibendum augue, sed convallis arcu lacus at dui. 
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+#             Praesent venenatis erat non augue suscipit consectetur. 
             
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+#             Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
+#             fringilla vel. Ut euismod, sem sed vulputate venenatis, 
+#             justo diam viverra velit, sed rhoncus leo leo eu justo.
+#             Suspendisse placerat risus ante, sed porta nisi blandit at. 
+#         - name: Git learning
+#           start: 2019
+#           end:
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.github.com
+#           credentialname: Github
+#           details: |
+#             Older certification. Lorem ipsum dolor sit amet, consectetur 
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh. 
+#             Aenean fermentum, felis vulputate suscipit accumsan, 
+#             sem enim bibendum augue, sed convallis arcu lacus at dui. 
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+#             Praesent venenatis erat non augue suscipit consectetur. 
         
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      coming soon...
+    # papers:
+    #   - title: The Art of Computer Programming
+    #     link: "#"
+    #     authors: Donald E. Knuth
+    #     conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #     link: "#"
+    #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    #   - title: A syntax directed compiler for Algol 60
+    #     link: "#"
+    #     authors: Edgar T. Irons
+    #     conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: C/C++
         level: 95%
 
-      - name: Ruby on Rails
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: Javascript 
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C#
+        level: 70%
+
+      - name: SQL
+        level: 60% 
+
+      - name: Verilog
+        level: 50%
+        
+honors:
+    title: Honors &amp; Awards
+    honors:
+      - title: Alibaba Cloud Annual Geek of Greencode (Winter 2022)  
+      - title: Third-class Scholarship of Fudan University (Autumn 2022)
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
