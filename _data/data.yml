@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/YesianRohn/YesianRohn.github.io/resume.pdf
+    pdf: https://github.com/YesianRohn/YesianRohn.github.io/blob/main/resume.pdf
 
     languages:
       title: Languages
