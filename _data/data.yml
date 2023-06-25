@@ -53,26 +53,25 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a junior studying Computer Science at Fudan University, supervised by Prof. Jeek Zhang.
+      I'm passionate about technology and currently focused on projects involving CLIP, NeRF, Robot Kinematics, and AIGC (C means Comedy). 
+      I'm excited about exploring the potential of these fields and leveraging them to make a positive impact. 
+      Feel free to check out my CV and video for more information. 
+      Let's connect and collaborate on exciting computer science projects!
 education:
     title: Education
     info:
       - degree: BSc in Computer Science
         university: Fudan University
         time: September 2020 - June 2024
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        # details: |
+        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #   pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
 
 experiences:
     title: Experiences
