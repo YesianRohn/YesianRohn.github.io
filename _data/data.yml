@@ -76,23 +76,23 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Research Intern
+      - role: Robot for Measuring Photosynthetic Efficiency
         time: February 2023 - May 2023
-        company: Shanghai Institute of Plant Physiology and Ecology
+        company: Shanghai Institute of Plant Physiology and Ecology, Research Intern
         details: |
           - Utilized the deep learning model Mask-RCNN for leaf instance segmentation and optimized the task by applying data augmentation techniques and dropout strategy to prevent overfitting.  
           - Devised algorithm to properly account for the distance and normal vector of the segmented leaf captured by a depth camera.  
           - Called the API interfaces of the AGILE AGV and the JAKA Manipulator to plan their movements and move the collection device to the optimal position upon detecting the blades.  
-      - role: Group leader
+      - role: Visualizing the Friendliness of Cycling Routes
         time: October 2022 - November 2022
-        company: Commonweal Project of Greencode in Alibaba Cloud
+        company: Commonweal Project of Greencode in Alibaba Cloud, Group leader
         details: |
           - Created an HTML-format map of non-motorized bicycle lanes in Wuhan city using the Folium package.  
           - Built two web pages with HTML and CSS based on the map, and deployed them on Github.  
           - Added a domain name mapping for www.mjdlz.cn to these web pages.  
-      - role: Software Intern
+      - role: Industrial Software and Robotic Arm Development
         time: July 2022 - September 2022
-        company: Chongqing Qingyan Technological Intelligent Technology Research Institute
+        company: Chongqing Qingyan Technological Intelligent Technology Research Institute, Software Intern
         details: |
           - Developed ERP systems for industrial enterprises through a low-code platform.  
           - Assisted in writing project development documents and software monographs, including conducting research, gathering information, organizing data, and proofreading.  
