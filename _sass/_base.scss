@@ -207,7 +207,10 @@ p {
     color: $text-grey;
     flex: 25%;
   }
-  .company,
+  .company{
+    margin-bottom: 8px;
+    color: $text-grey;
+  }
   .university,
   .cert-org {
     margin-bottom: 10px;
