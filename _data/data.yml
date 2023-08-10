@@ -32,11 +32,15 @@ sidebar:
     languages:
       title: Languages
       info:
+        - idiom: Southwest Mandarin
+          level: Perfect
+      
         - idiom: Standard Chinese
           level: Native, Two levels of second-class
 
         - idiom: English
           level: Fluent, CET-6 565/710
+
 
     interests:
       title: Interests
