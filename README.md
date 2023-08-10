@@ -69,6 +69,7 @@
 
 - English (Fluent, CET-6: 565/710)  
 - Standard Chinese (Native, Two levels of second-class)
+- Southwest Mandarin (Perfect)
 
 ## Honor
 - Alibaba Cloud Annual Geek of Greencode (Winter 2022)  
