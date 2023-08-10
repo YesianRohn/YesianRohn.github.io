@@ -16,15 +16,13 @@
 `Computer Science and Technology (Bachelor of Science)`  
 
 - Cumulative GPA: 3.62/4.0 (Ranking: 25/102)  
-- Selected Coursework and Grade: 
+- Selected Coursework and Grade:
+| | | | |
 |--------------------------|----------------------|----------------------|
 | Data Structure          | Introduction to Electronic Systems | Discrete Math        |
-| Introduction to Robotics| Computer Architecture | Computation Theory   |
-| Computer Visualization   |                      | Algorithm Design and Analysis |
-| Operating Systems       |                      |                      |
-| Artificial Intelligence |                      |                      |
-| Computer Graphics       |                      |                      |
-| Software Engineering    |                      |                      |
+| Computer Graphics | Computer Architecture | Computation Theory   |
+| Computer Visualization   |  Introduction to Robotics                    | Algorithm Design and Analysis |
+| Operating Systems       |         Software Engineering            |          Artificial Intelligence            | 
 
 ## Professional Experience
 
