@@ -17,12 +17,11 @@
 
 - Cumulative GPA: 3.62/4.0 (Ranking: 25/102)  
 - Selected Coursework and Grade:
-| | | | |
-|--------------------------|----------------------|----------------------|
-| Data Structure          | Introduction to Electronic Systems | Discrete Math        |
-| Computer Graphics | Computer Architecture | Computation Theory   |
-| Computer Visualization   |  Introduction to Robotics                    | Algorithm Design and Analysis |
-| Operating Systems       |         Software Engineering            |          Artificial Intelligence            | 
+| Data Structure (A)         | Introduction to Electronic Systems (A-) | Discrete Math (A)           |
+| Computer Graphics (A)      | Computer Architecture  (A)            | Computation Theory (A-)     |
+| Computer Visualization (A) | Introduction to Robotics  (A)          | Algorithm Design and Analysis (A-) |
+| Operating Systems  (A)   | Software Engineering    (A-)         | Artificial Intelligence (A) |
+
 
 ## Professional Experience
 
