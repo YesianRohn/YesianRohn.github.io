@@ -45,13 +45,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Video making
+        - item: Video Production
           link:
 
-        - item: Stand-up comedy
+        - item: Stand-Up Comedy
           link:
 
-        - item: Ping-pong sending
+        - item: LEGENDS OF THE THREE KINGDOMS
           link:
 
 career-profile:
@@ -192,7 +192,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      coming soon...
+      Coming soon...
     # papers:
     #   - title: The Art of Computer Programming
     #     link: "#"
