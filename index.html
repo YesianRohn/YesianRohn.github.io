@@ -27,16 +27,16 @@
         <h1 class="hero__name">Yesian Rohn / Xingsong Ye</h1>
         <div class="hero__bio">
           <p>
-            I am a Master's student in Computer Science at
+            I am a Ph.D. student (integrated Master's–Ph.D. program) in Artificial Intelligence at
             <a href="https://www.fudan.edu.cn">Fudan University</a>, under the supervision of
             <a href="https://zhinchenfd.github.io">Prof. Zhineng Chen</a> in the
-            <a href="https://fvl.fudan.edu.cn">FVL Group</a>. Before that, nothing had happened.
+            <a href="https://fvl.fudan.edu.cn">FVL Lab</a>. Before that, nothing had happened.
           </p>
           <p>
-            I am currently focused on projects involving <b>OCR</b>, <b>MultiModal</b>, and
+            I am currently focused on projects involving <b>OCR</b>, <b>Data-Centric</b>, and
             <b>AIGC</b> (C means Comedy). Please connect and collaborate with me to explore the
             potential of these fields and leverage them to make a positive impact on exciting
-            computer science projects!
+            super intelligence projects!
           </p>
         </div>
         <nav class="links">
@@ -57,6 +57,10 @@
     <section class="section">
       <h2 class="section-title">News</h2>
       <ul class="news">
+        <li>
+          <span class="date">Sep 2026</span>
+          <span class="text">One paper accepted by NeurIPS 2026, and recognized as a Top Reviewer 🎉 See you in Sydney!</span>
+        </li>
         <li>
           <span class="date">Jul 2026</span>
           <span class="text">Our team won third place in the Fourth World AI4S Competition (Ancient OCR) 🥉</span>
@@ -106,6 +110,33 @@
 
       <article class="pub">
         <div class="pub__thumb">
+          <img src="images/textriro.png" alt="TextRIRO">
+        </div>
+        <div class="pub__body">
+          <h3 class="pub__title">Real In, Real Out: What If We Only Use Real Data for Scene Text Editing?</h3>
+          <p class="pub__authors"><strong>Xingsong Ye</strong>, Yongkun Du, Jiaxin Zhang, Chong Sun,
+            Zhineng Chen</p>
+          <p class="pub__venue">NeurIPS, 2026</p>
+          <p class="pub__links">
+            <span>arXiv</span><span class="sep">/</span>
+            <a href="https://github.com/YesianRohn/TextRIRO">code</a><span class="sep">/</span>
+            <a href="https://huggingface.co/datasets/Yesianrohn/TextRIRO-3M">dataset</a>
+          </p>
+          <p class="pub__abs">We challenge the common practice and investigate whether STE can be
+            driven by turning each real sample into its own paired supervision. Concretely, we explore
+            multiple ways to disrupt the original image (e.g., Crop, Shuffle, Mask) to construct
+            self-paired training data, and build a strong baseline TextRIRO upon a conditional diffusion
+            architecture. Our experiments show that combining character-column shuffling with image
+            cropping (Shuffle&amp;Crop) effectively destroys text semantics while preserving key style
+            cues, enabling the model to learn editing behaviors directly from real text images.
+            Furthermore, we leverage TextRIRO to build TextRIRO-3M, a large-scale realistic dataset for
+            long-text recognition by concatenating edited and original images. Overall, TextRIRO lifts
+            STE to realistic, reliable, and widely applicable new levels.</p>
+        </div>
+      </article>
+
+      <article class="pub">
+        <div class="pub__thumb">
           <img src="images/WATER.png" alt="WATER" onerror="this.style.display='none'">
         </div>
         <div class="pub__body">
@@ -117,7 +148,7 @@
           <p class="pub__links">
             <a href="https://arxiv.org/abs/2606.24484">arXiv</a><span class="sep">/</span>
             <a href="https://github.com/YesianRohn/WATER">code</a><span class="sep">/</span>
-            <a href="https://huggingface.co/datasets/Yesianrohn/WATER-Data">dataset</a>
+            <a href="https://huggingface.co/datasets/Yesianrohn/WATER-Data">dataset</a><span class="sep">/</span>
             <a href="https://huggingface.co/spaces/Yesianrohn/waterec-wordart-recognition">demo</a>
           </p>
           <p class="pub__abs">WordArt (artistic text) features highly customized fonts, textures, and
@@ -256,6 +287,59 @@
 
       <article class="pub">
         <div class="pub__thumb">
+          <img src="images/scriptmoe.png" alt="ScriptMoE">
+        </div>
+        <div class="pub__body">
+          <h3 class="pub__title">All-in-One Multilingual Scene Text Recognition with Script-aware
+            Mixture-of-Experts</h3>
+          <p class="pub__authors"><strong>Xingsong Ye</strong>, Yongkun Du, Jiaxin Zhang, Zhixian Li,
+            Chong Sun, Chen Li, Jing Lyu, Lianwen Jin, Zhineng Chen</p>
+          <p class="pub__venue">arXiv, 2026</p>
+          <p class="pub__links">
+            <a href="https://arxiv.org/abs/2609.24058">arXiv</a><span class="sep">/</span>
+            <a href="https://github.com/YesianRohn/ScriptMoE">code</a><span class="sep">/</span>
+            <a href="https://huggingface.co/datasets/Yesianrohn/TextMuSS-10M">dataset</a><span class="sep">/</span>
+            <a href="https://huggingface.co/datasets/Yesianrohn/TextMuSS-Bench">benchmark</a><span class="sep">/</span>
+            <a href="https://huggingface.co/spaces/Yesianrohn/MultilingualOCR-Demo">demo</a>
+          </p>
+          <p class="pub__abs">We pursue an all-in-one multilingual recognizer that is simpler than
+            per-language experts, lighter than VLMs, and more accurate than both. First, we construct
+            TextMuSS-10M, a large-scale synthetic scene text dataset spanning 10 scripts and 229
+            languages. It provides balanced and sufficient supervision where real data is unavailable.
+            Second, we propose ScriptMoE, a script-aware Mixture-of-Experts (MoE) architecture. It shares
+            a single visual encoder and replaces the dense decoder with a sparse MoE block, which
+            consists of an image-level router dispatches each image to the top-2 script-aligned experts
+            and a shared expert absorbs cross-script knowledge.</p>
+        </div>
+      </article>
+
+      <article class="pub">
+        <div class="pub__thumb">
+          <img src="images/idspect.png" alt="IDSpect">
+        </div>
+        <div class="pub__body">
+          <h3 class="pub__title">Decompose Radicals, Then Reward: Fine-Grained Inspection for Accurate
+            Chinese Text Rendering</h3>
+          <p class="pub__authors">Yazhen Xie, <strong>Xingsong Ye</strong>, Zhineng Chen</p>
+          <p class="pub__venue">arXiv, 2026</p>
+          <p class="pub__links">
+            <a href="https://arxiv.org/abs/2609.37569">arXiv</a><span class="sep">/</span>
+            <span>code</span><span class="sep">/</span>
+            <span>dataset</span>
+          </p>
+          <p class="pub__abs">We employ Ideographic Description Sequences (IDS), which comprise
+            spatial operators and character components, and train an expert IDS recognizer to
+            transcribe rendered Chinese text into this representation. Building on this recognizer,
+            we introduce IDSpect, which deterministically decomposes the target text into IDS tokens
+            and aligns crop-level visual IDS predictions with the target sequence. Globally unique
+            token credit makes this comparison robust to the order of detected text regions. Combined
+            with a whole-character semantic reward, IDSpect supplies fine-grained credit with component
+            and spatial-relation without changing the image generator or adding inference-time cost.</p>
+        </div>
+      </article>
+
+      <article class="pub">
+        <div class="pub__thumb">
           <img src="images/cl2s.png" alt="CL2S">
         </div>
         <div class="pub__body">
@@ -310,6 +394,7 @@
 
       <p class="subhead">Awards</p>
       <ul class="list">
+        <li>NeurIPS 2026 Top Reviewer, Autumn 2026.</li>
         <li>Third place in the "Fourth World AI4S Competition" Ancient Script Recognition Track:
           Few-shot Cross-domain Ancient Script Recognition, Summer 2026.</li>
         <li>CVPR Compute Transparency Champion Award, Spring 2026.</li>
@@ -332,7 +417,7 @@
       <h2 class="section-title">Internships</h2>
       <ul class="list">
         <li><a href="https://www.tencent.com/">Tencent WXG, Visual Technology Center, Shenzhen,
-            China</a> (March 2025 - Now)</li>
+            China</a> (March 2025 - August 2026)</li>
       </ul>
     </section>
 
@@ -365,7 +450,7 @@
 
     <!-- ============ FOOTER ============ -->
     <footer class="footer">
-      <span>Updated at June 2026.</span>
+      <span>Updated at October 2026.</span>
     </footer>
 
   </div>
